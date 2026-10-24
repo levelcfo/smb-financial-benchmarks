@@ -1,0 +1,38 @@
+{
+  "upload_type": "dataset",
+  "title": "Level SMB Multi-Vertical Financial & Operating Benchmarks",
+  "description": "Level SMB Multi-Vertical Financial & Operating Benchmarks (Contractors, Healthcare, Restaurants, Cleaning, Staffing, Landscaping, Ecommerce, Public Comps & Valuation Multiples). Non-commercial evaluation only; contact sam@levelcfo.com.",
+  "creators": [
+    {
+      "name": "Yang, Sam",
+      "affiliation": "Level"
+    }
+  ],
+  "license": "other-nc",
+  "access_right": "open",
+  "version": "2026.10.24",
+  "language": "eng",
+  "keywords": [
+    "financial-benchmarks",
+    "smb-finance",
+    "contractor-benchmarks",
+    "ecommerce-benchmarks",
+    "healthcare-benchmarks",
+    "restaurant-benchmarks",
+    "valuation-multiples",
+    "fractional-cfo"
+  ],
+  "notes": "Licensed strictly under the Level Personal, Academic & Non-Commercial Evaluation License v1.0 (Commercial Use Requires License from sam@levelcfo.com). Commercial AI model training, RL environment building, and commercial benchmarking require a written license from sam@levelcfo.com. IP Canary: LEVEL-IP-CANARY-9F4A-7C2E-PERSONAL-USE-ONLY-CONTACT-SAM-AT-LEVELCFO-COM",
+  "related_identifiers": [
+    {
+      "identifier": "https://levelcfo.com/benchmarks/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/LevelCFO/smb-financial-benchmarks",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    }
+  ]
+}
