@@ -279,7 +279,7 @@
     "unit": "value",
     "evidence_type": "Level planning input; no measured source observation or percentile",
     "reference_positions": "Warehouse low: 0.07 | Office low: 0.09 | Office mid: 0.13 | Medical low: 0.14 | Medical high: 0.29",
-    "definition": "Assumed monthly contract revenue divided by serviced square feet. Visits per month, scope, actual service minutes, travel and supplies must be stated; this is not a per-visit quote or measured market price.",
+    "definition": "Assumed monthly contract revenue divided by serviced square feet. State visits per month, scope, actual service minutes, travel and supplies; this is not a per-visit quote or measured market price.",
     "sample_or_scope": "No measured sample",
     "source": "Level planning contract-price inputs; measured engagement population not supplied",
     "source_url": null,
