@@ -1,13 +1,14 @@
-# Level SMB Multi-Vertical Financial & Operating Benchmarks (2026.10.24)
+# Level SMB Multi-Vertical Financial & Operating Benchmarks (2026.10.25)
 
 > **NON-COMMERCIAL EVALUATION LICENSE NOTICE**: This dataset compilation is published under the **Level Personal, Academic & Non-Commercial Evaluation License v1.0 (Commercial Use Requires License from sam@levelcfo.com)** ([full license & IP notice](https://levelcfo.com/data/benchmarks/cases/LICENSE_AND_IP_NOTICE.txt)). Free for personal operator review, individual CPA/CFO inspection, and non-commercial academic evaluation only. **Commercial AI labs, foundation model trainers, RL environment builders, data brokers, and commercial software vendors are strictly prohibited from training on, redistributing, or commercially benchmarking with this compilation without a written commercial license.** Contact **sam@levelcfo.com** for commercial licensing.
 
-Release: **2026.10.24**
+Release: **2026.10.25**
 
 - **Canonical Benchmark Hub**: [https://levelcfo.com/benchmarks/](https://levelcfo.com/benchmarks/)
 - **Contractor Financial & Operating Benchmarks**: [https://levelcfo.com/benchmarks/contractor/](https://levelcfo.com/benchmarks/contractor/)
 - **AI Accounting & CFO Benchmark (LevelBench-100)**: [https://levelcfo.com/benchmarks/agentic-accounting/](https://levelcfo.com/benchmarks/agentic-accounting/)
 - **Hugging Face Dataset**: [https://huggingface.co/datasets/LevelCFO/smb-financial-benchmarks](https://huggingface.co/datasets/LevelCFO/smb-financial-benchmarks)
+- **Hugging Face Explorer Space**: [https://huggingface.co/spaces/LevelCFO/smb-financial-benchmarks](https://huggingface.co/spaces/LevelCFO/smb-financial-benchmarks)
 - **GitHub Repository**: [https://github.com/levelcfo/smb-financial-benchmarks](https://github.com/levelcfo/smb-financial-benchmarks)
 - **Published by**: [Level](https://levelcfo.com)
 
@@ -20,8 +21,10 @@ Release: **2026.10.24**
 | `contractor_benchmarks` | 19 | 19 canonical contractor financial & operating metrics (p10/p25/median/p75/p90) with per-metric sample sizes | [Contractor Benchmarks](https://levelcfo.com/benchmarks/contractor/) |
 | `vertical_benchmarks` | 41 | 41 financial & operating metrics across Healthcare, Restaurants, Cleaning, Staffing, Landscaping, and Ecommerce | [The Level Index Hub](https://levelcfo.com/benchmarks/) |
 | `public_contractor_cash_equity` | 5 | FY2025 cash flow, FCF conversion, and ROE calculations for 5 publicly traded contractors from SEC 10-K filings | [Public Contractor FCF & ROE](https://levelcfo.com/blog/contractor-free-cash-flow-roe-benchmarks/) |
+| `public_contractor_operating_comps` | 6 | FY2025 gross margin, operating margin, adj. EBITDA margin, DSO, and revenue per employee for 6 public SEC 10-K contractors (FIX, EME, MYRG, DY, IBP, BLD) | [Contractor Benchmarks](https://levelcfo.com/benchmarks/contractor/) |
 | `valuation_multiples` | 39 | 39 EV/EBITDA and SDE valuation multiple brackets across 13 skilled trades and 3 scale tiers | [Contractor Valuation Multiples](https://levelcfo.com/benchmarks/contractor-valuation/) |
-| `trade_benchmark_facts` | 31 | 33 per-trade benchmark facts across HVAC, Plumbing, Electrical, Mechanical, Roofing, and General Contracting | [HVAC Benchmarks](https://levelcfo.com/benchmarks/hvac/) |
+| `trade_benchmark_facts` | 31 | 31 per-trade benchmark facts across HVAC, Plumbing, Electrical, Mechanical, Roofing, and General Contracting | [HVAC Benchmarks](https://levelcfo.com/benchmarks/hvac/) |
+| `bls_trade_wages` | 5 | 5 U.S. Bureau of Labor Statistics OEWS wage and employment anchors by skilled trade | [Contractor Benchmarks](https://levelcfo.com/benchmarks/contractor/) |
 
 ---
 

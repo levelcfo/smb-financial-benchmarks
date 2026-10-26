@@ -1,0 +1,72 @@
+[
+  {
+    "trade": "roofing",
+    "soc_code": "47-2181",
+    "occupation": "Roofers",
+    "median_hourly_usd": 24.51,
+    "mean_annual_usd": 57090,
+    "national_employment": 136740,
+    "reference_period": "May 2024",
+    "source_url": "https://www.bls.gov/oes/tables.htm",
+    "canonical_url": "https://levelcfo.com/benchmarks/contractor/",
+    "license": "Level Personal, Academic & Non-Commercial Evaluation License v1.0 (Commercial Use Requires License from sam@levelcfo.com)",
+    "commercial_licensing_contact": "sam@levelcfo.com",
+    "canary_watermark_token": "LEVEL-IP-CANARY-9F4A-7C2E-PERSONAL-USE-ONLY-CONTACT-SAM-AT-LEVELCFO-COM"
+  },
+  {
+    "trade": "hvac",
+    "soc_code": "49-9021",
+    "occupation": "HVAC/Refrigeration Mechanics & Installers",
+    "median_hourly_usd": 28.75,
+    "mean_annual_usd": 62690,
+    "national_employment": 396870,
+    "reference_period": "May 2024",
+    "source_url": "https://www.bls.gov/oes/tables.htm",
+    "canonical_url": "https://levelcfo.com/benchmarks/contractor/",
+    "license": "Level Personal, Academic & Non-Commercial Evaluation License v1.0 (Commercial Use Requires License from sam@levelcfo.com)",
+    "commercial_licensing_contact": "sam@levelcfo.com",
+    "canary_watermark_token": "LEVEL-IP-CANARY-9F4A-7C2E-PERSONAL-USE-ONLY-CONTACT-SAM-AT-LEVELCFO-COM"
+  },
+  {
+    "trade": "plumbing",
+    "soc_code": "47-2152",
+    "occupation": "Plumbers, Pipefitters & Steamfitters",
+    "median_hourly_usd": 30.27,
+    "mean_annual_usd": 69940,
+    "national_employment": 455940,
+    "reference_period": "May 2024",
+    "source_url": "https://www.bls.gov/oes/tables.htm",
+    "canonical_url": "https://levelcfo.com/benchmarks/contractor/",
+    "license": "Level Personal, Academic & Non-Commercial Evaluation License v1.0 (Commercial Use Requires License from sam@levelcfo.com)",
+    "commercial_licensing_contact": "sam@levelcfo.com",
+    "canary_watermark_token": "LEVEL-IP-CANARY-9F4A-7C2E-PERSONAL-USE-ONLY-CONTACT-SAM-AT-LEVELCFO-COM"
+  },
+  {
+    "trade": "electrical",
+    "soc_code": "47-2111",
+    "occupation": "Electricians",
+    "median_hourly_usd": 29.98,
+    "mean_annual_usd": 69630,
+    "national_employment": 742580,
+    "reference_period": "May 2024",
+    "source_url": "https://www.bls.gov/oes/tables.htm",
+    "canonical_url": "https://levelcfo.com/benchmarks/contractor/",
+    "license": "Level Personal, Academic & Non-Commercial Evaluation License v1.0 (Commercial Use Requires License from sam@levelcfo.com)",
+    "commercial_licensing_contact": "sam@levelcfo.com",
+    "canary_watermark_token": "LEVEL-IP-CANARY-9F4A-7C2E-PERSONAL-USE-ONLY-CONTACT-SAM-AT-LEVELCFO-COM"
+  },
+  {
+    "trade": "commercial_cleaning",
+    "soc_code": "37-2011",
+    "occupation": "Janitors & Cleaners",
+    "median_hourly_usd": 17.27,
+    "mean_annual_usd": 37460,
+    "national_employment": 2199900,
+    "reference_period": "May 2024",
+    "source_url": "https://www.bls.gov/oes/tables.htm",
+    "canonical_url": "https://levelcfo.com/benchmarks/contractor/",
+    "license": "Level Personal, Academic & Non-Commercial Evaluation License v1.0 (Commercial Use Requires License from sam@levelcfo.com)",
+    "commercial_licensing_contact": "sam@levelcfo.com",
+    "canary_watermark_token": "LEVEL-IP-CANARY-9F4A-7C2E-PERSONAL-USE-ONLY-CONTACT-SAM-AT-LEVELCFO-COM"
+  }
+]
